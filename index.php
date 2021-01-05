@@ -1,3 +1,3 @@
-<?php include_once("TP/acceuil.html");
+<?php include_once("acceuil.html");
 ?>
 
